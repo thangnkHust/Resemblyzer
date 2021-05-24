@@ -130,3 +130,9 @@ core
 
 # Project directories
 saved_models
+
+# audio test private
+audio_test/Vũ Văn Viện - GĐ Sở Giao thông.mp3
+
+# Private model
+resemblyzer/my_run.pt
